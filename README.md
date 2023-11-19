@@ -16,9 +16,6 @@ Welcome to FREE-BITCOINS, where simplicity meets power to provide you with an ef
 ### Effortless Operation
 Forget about complexities. With FREE-BITCOINS, creating your Bitcoin wallet is as straightforward as entering any text. A hassle-free process allows you to dive into cryptocurrency trading within minutes.
 
-### Security at the Forefront
-It operates entirely offline, minimizing the risk of online threats. This offline status adds an extra layer of protection to your cryptocurrencies.
-
 ### Intuitive Design
 Regardless of your tech experience, FREE-BITCOINS offers clear and friendly instructions to make the entire experience user-friendly.
 
