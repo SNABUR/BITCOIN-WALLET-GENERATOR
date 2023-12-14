@@ -7,7 +7,7 @@
 </div>
 
 
-# Welcome to FREE-BITCOINS v1.0
+# Welcome to FREE-BITCOINS WALLET GENERATOR
 
 Welcome to FREE-BITCOINS, where simplicity meets power to provide you with an effortless entry into the thrilling realm of cryptocurrencies. Our intuitive and robust application empowers users of all levels, making the creation of Bitcoin wallets as easy as entering any text. Whether you're a novice or an experienced user, FREE-BITCOINS ensures a hassle-free process to kickstart your cryptocurrency journey.
 
